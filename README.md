@@ -1,6 +1,6 @@
 # Brain Tumors
 # introduction
-This repository hosts the **Brain Tumors dataset from Kaggle, consisting of MRI scans of brain tumors. It’s ideal for training and evaluating machine-learning models for classification, segmentation, or detection tasks.
+This repository hosts the Brain Tumors dataset from Kaggle, consisting of MRI scans of brain tumors. It’s ideal for training and evaluating machine-learning models for classification, segmentation, or detection tasks.
 # Tools Used
 Python 3.8+
 
